@@ -86,4 +86,9 @@ By above seen values its negligible amount of impact on the churn rate. Therefor
 
 ## What would be your recommendation on how to use this churn model for prioritisation of customers for a proactive retention campaigns in the future?
 ![telecom2](https://user-images.githubusercontent.com/44108439/51059154-39b61480-1611-11e9-93c5-b59b384ea7b0.png)
-                                   Fig: Gains chart
+        Fig: Gains chart
+- After seeing the gains chart, we can conclude that the top20% of the probabilities contain 30% of the total customers with Mean model score of 0.40 for 10% probability and 0.32 for 20% probability.
+- Therefore, the cutoff value for prediction is with in 3.0 to 7.0.
+- The company should extract the customer ID to know the targeted customers and can check the high probability of churn by this model.
+
+## What would be the target segments for proactive retention campaigns?
