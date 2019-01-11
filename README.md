@@ -92,3 +92,18 @@ By above seen values its negligible amount of impact on the churn rate. Therefor
 - The company should extract the customer ID to know the targeted customers and can check the high probability of churn by this model.
 
 ## What would be the target segments for proactive retention campaigns?
+- Falling ARPU forecast is also a concern and therefore, Mobicom would like to save their high revenue customers besides managing churn.
+- Given a budget constraint of a contact list of 20% of the subscriber pool, which subscribers should prioritized if “revenue saves” is also a priority besides controlling churn. In other words, controlling churn is the primary objective and revenue saves is the secondary objective.
+- The ARPU that is the average revenue per user is also a factor that has to be considered by Mobicom to save their high revenue subs besides managing the churn rate.
+- Controlling the churn is primary important factor and ARPU is the secondary factor.
+- The cut-off value for prediction is divided into low score(<0.20) that is low, medium score(>=0.20 & <0.30) as mid and high score(remaining) as high.
+- Values of Totrev var is divided into low revenue(<540.7) ,medium revenue(>=540.7
+and <1121.0) and high revenue(>=1121.0).
+- Customer_ID for high prediction value and high revenue becomes the target customers.
+
+## Model Results
+1) Kappa = 0.151
+2) Z-score = 21.1
+3) P-value = <0.000000000000002
+4) Model Accuracy = 67.7%
+5) AUC = 57.8%
