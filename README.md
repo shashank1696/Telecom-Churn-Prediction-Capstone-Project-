@@ -9,7 +9,7 @@ Recommendations from family and friends have gained in importance in the decisio
 Usage based promotions to increase minutes of usage (MOU) for both voice and data. It is an accepted fact that low usage and high churn go hand in hand. Rate Plan Migration is a strategy to move customers from non-optimal plans to optimal plans as it has been observed that subscribers on non-optimal rate plans have significantly higher odds of churn relative to subscribers on optimal rate plans.
 
 ## Summary
-![telecom1](https://user-images.githubusercontent.com/44108439/51005139-a4a91200-1563-11e9-8807-a5fb5d0fe3e6.png)
+![telecom1](https://user-images.githubusercontent.com/44108439/51005282-3153d000-1564-11e9-96cc-07e440a6160d.png)
 - The above figure represents the top five factors affecting churn in the company Mobicom.
 
 ## Top five factors affecting churn
