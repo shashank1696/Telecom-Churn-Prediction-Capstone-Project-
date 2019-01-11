@@ -85,5 +85,5 @@ By above seen values its negligible amount of impact on the churn rate. Therefor
 - Therefore, the overall rate plan migration as a proactive retention strategy might not help at Mobicom.
 
 ## What would be your recommendation on how to use this churn model for prioritisation of customers for a proactive retention campaigns in the future?
-![telecom2](https://user-images.githubusercontent.com/44108439/51059105-125f4780-1611-11e9-8f67-2cad6489f9fa.png)
+![telecom2](https://user-images.githubusercontent.com/44108439/51059154-39b61480-1611-11e9-93c5-b59b384ea7b0.png)
                                    Fig: Gains chart
