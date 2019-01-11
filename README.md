@@ -16,19 +16,17 @@ Mobile operators who lead in loyalty outperform their competition in network and
 
 Another report by Ovum forecasts a falling ARPU, which will continue to decline across all markets.
 
-Proactive Retention Strategies
+### Proactive Retention Strategies
 
 Usage based promotions to increase minutes of usage (MOU) for both voice and data. It is an accepted fact that low usage and high churn go hand in hand.
 
-Rate Plan Migration is a strategy to move customers from non-optimal plans to optimal plans as it has been observed that subscribers on non-optimal rate plans have significantly higher odds of churn relative to subscribers on optimal rate plans.
+- Rate Plan Migration is a strategy to move customers from non-optimal plans to optimal plans as it has been observed that subscribers on non-optimal rate plans have significantly higher odds of churn relative to subscribers on optimal rate plans.
 
-Offer bundling and churn have been found to be negatively correlated. A family bundle is an option that is being considered especially in the light of one of the observations from the survey that referrals from family and friends are a deciding factor for switching carrier.
+- Offer bundling and churn have been found to be negatively correlated. A family bundle is an option that is being considered especially in the light of one of the observations from the survey that referrals from family and friends are a deciding factor for switching carrier.
 
 ## Definitions:
 
-Bundling A bundling strategy involves offering several products/services for sale as one combined
-
-product (e.g., package deal), using demand for the dominant product to sell a secondary offer. This combined product is offered at a discount price so that it is cheaper to buy the bundle than products separately. 
+Bundling A bundling strategy involves offering several products/services for sale as one combined product (e.g., package deal), using demand for the dominant product to sell a secondary offer. This combined product is offered at a discount price so that it is cheaper to buy the bundle than products separately. 
 
 Optimal rate plan A post-paid wireless rate plan typically includes a fixed number of voice minutes that a customer can use per month. Usage exceeding the monthly allowance is called overage and is charged at a premium per-minute rate. Unless customers have a good understanding of their historical usage patterns and have the ability to predict their future wireless needs accurately, selecting an optimal rate plan to subscribe can be a challenging task. Conceptually, non-optimal rate plan subscribers could have saved money by switching to other more suitable plans to minimize overage. Specifically, customer’s rate plan suitability is determined based on their actual voice usage, the monthly rate of their selected plans, and the associated overage charges. Given that rate plan is not available on the data file, a proxy for non-optimal rate plan could be higher overage revenue as a percentage of total revenue.  
 
