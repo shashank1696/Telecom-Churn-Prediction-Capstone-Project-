@@ -57,6 +57,27 @@ Artificial churn/spinners or serial churners “Artificial” churn may be encou
 4) FACTOR-4 tells us that ethnic variable in the level "O" has the fourth highest unit increase of 0.3084353 in churn which means the subscribers whose ethnicity with level "O" should be provided with some offers that is for the subscribers who live in Asia region has to be provided with some offers.
 5) FACTOR-5 tells us that area  variable in the level "NORTH WEST AREA" has the fifth highest unit increase of 0.2506568  in churn which means the subscribers who live in North-West region has to be provided with some offers. The company has to roll-out some special plans to this area to reduce the churn.
 
+## Cost and Billing factor
+- Variables like totmrc_Mean, rev_Range, ovrrev_Mean, totrev influence on cost and billing factor
+  totmrc_Mean var is the base plan charge cost to the customer that has the beta coefficient of -0.00603758 that is causing churn to       decrease by 0.00603758/unit.
+- rev_Range var is the range of revenue that represents the billing amount to the customer that has the beta coefficient,of 0.00207155     that is causing churn to increase by 0.00207155/unit.
+- ovrrev_Mean var is the addition of 2 variables datovr_Mean and vceovr_Mean which is the mean average revenue that is again sum of the   data and voice, that has the beta coefficient of 0.00685211 that is causing churn to increase by 0.00685211/unit.
+- totrev var is the total revenue earned from the customers that has the beta coefficient of  0.00024202 that is causing churn to         increase by 0.00024202/unit.
+By above seen values its negligible amount of impact on the churn rate. Therefore, cost and billing is can be an important factor influencing churn behavior in Mobicom As the variables like rev_Range, ovrrev_Mean, totrev turns out to increase the churn. Thus it as to be considered.
+
+## Network and Security Quality factor
+- mou_Range var is the unit increase in range of number of minutes of use may be based on promotion  which is a Proactive Retention       Strategy, by which there is an increase in churn by 0.00024676 units.
+- change_mou var is the unit increase in percentage change in monthly minutes of use comparing with 3 months average, there is decrease of churn by -0.00062382 units.
+- drop_blk_mean var is the unit increase in mean number of dropped or blocked calls there by increasing churn by 0.00688997 units.
+- drop_vce_Range var is the unit increase in range of number of dropped voice calls there by increasing churn by 0.01874519 units.
+- mou_opkv_Range  var is the unit increase in range of unrounded minutes of use of off-peak voice calls,i.e., calls apart from Monday to Friday from 7.00am to 9.00pm, there is decrease in churn by -0.00116024 units.
+- iwylis_vce_Mean var is the unit increase in mean number of inbound wireless to wireless voice calls, there is a decrease in churn by -0.01589697 units.
+- avgqty var is the unit increase in average monthly number of calls over life of the subscriber there by increasing the churn by 0.00085275 units.
+- complete_Mean var is the unit increase in mean number of completed voice and data calls thereby decreasing the churn by -0.00193047 units.
+- retdays1 var is the unit increase in churn by 0.67224316 units which is quite high compared to other variables retdays means number of days since the last retention call.
+- Retention calls are made to  retain the customers over some period There is a high unit for this var and also a important factor influencing the churn which can be due to service quality of the company.
+- Therefore, with the increase in number of days since the customer retention call, customer's chances of churning out is quite high. - - These customers has to be paid more attention and appropriate offers have to given in order to retain the customers. And thus network and service quality is not a important factor influencing churn behavior in Mobicom
+
 
 
 
