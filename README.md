@@ -78,7 +78,18 @@ By above seen values its negligible amount of impact on the churn rate. Therefor
 - Retention calls are made to  retain the customers over some period There is a high unit for this var and also a important factor influencing the churn which can be due to service quality of the company.
 - Therefore, with the increase in number of days since the customer retention call, customer's chances of churning out is quite high. - - These customers has to be paid more attention and appropriate offers have to given in order to retain the customers. And thus network and service quality is not a important factor influencing churn behavior in Mobicom
 
+## Would you recommend rate plan migration as a proactive retention strategy?
 
+- ovrr_Mean is the addition of datovr_mean and vceovr_Mean that is the overall mean for the revenue which considers the sum of data and voice overage revenue values that represents the overage revenue earned from the subs after billing.
+- The beta coefficient for the variable ovrr_Mean is 0.00647120 which is negligible and almost 0% impact on the overage billing that is a factor for influencing the churn behavior
+- Therefore, the overall rate plan migration as a proactive retention strategy might not help at Mobicom.
 
+## What would be your recommendation on how to use this churn model for prioritisation of customers for a proactive retention campaigns in the future?
 
-
+Depth                                   Cume   Cume Pct                        Mean
+ of           Cume     Mean      Mean      of Total    Lift   Cume    Model
+File     N      N      Resp          Resp      Resp    Index   Lift       Score
+----------------------------------------------------------------------------------------
+  10  1941   1941      0.38      0.38      15.8%     158    158      0.40
+  20  1942   3883      0.34      0.36      30.0%     141    150      0.32
+                                   Fig: Gains chart
