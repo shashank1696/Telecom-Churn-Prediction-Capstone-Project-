@@ -51,4 +51,13 @@ Artificial churn/spinners or serial churners “Artificial” churn may be encou
 - The above figure represents the top five factors affecting churn in the company Mobicom.
 
 ## Top five factors affecting churn
+1) FACTOR-1  tells us that uniqsubs variable in the level 7 has the first highest unit increase of 0.7512079 in churn which means some offers should be rolled out for families with 7 unique subscribers as it is said that churn rate is  increasing as the subscriber is getting influenced and recommended by family and friends to switch the operators.
+2) FACTOR-2 tells us that retdays variable has second highest unit increase of 0.6722432 in churn which is the number of days since the last retention call. Retention calls are made to retain the customers over some period.
+3) FACTOR-3 tells us that asl_flagN variable has third highest unit increase of 0.3918855 in churn that is account spending limit under level "N" is the monthly maximum spending limit for Mobicom and "N" specifies no account speed limit.(I think this happens mostly with non-optimal rate plan subscribers who have significantly higher odds of churn relative to subscribers on optimal rate plans.)
+4) FACTOR-4 tells us that ethnic variable in the level "O" has the fourth highest unit increase of 0.3084353 in churn which means the subscribers whose ethnicity with level "O" should be provided with some offers that is for the subscribers who live in Asia region has to be provided with some offers.
+5) FACTOR-5 tells us that area  variable in the level "NORTH WEST AREA" has the fifth highest unit increase of 0.2506568  in churn which means the subscribers who live in North-West region has to be provided with some offers. The company has to roll-out some special plans to this area to reduce the churn.
+
+
+
+
 
