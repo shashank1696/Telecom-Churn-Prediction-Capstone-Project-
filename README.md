@@ -85,11 +85,5 @@ By above seen values its negligible amount of impact on the churn rate. Therefor
 - Therefore, the overall rate plan migration as a proactive retention strategy might not help at Mobicom.
 
 ## What would be your recommendation on how to use this churn model for prioritisation of customers for a proactive retention campaigns in the future?
-
-Depth                                   Cume   Cume Pct                        Mean
- of           Cume     Mean      Mean      of Total    Lift   Cume    Model
-File     N      N      Resp          Resp      Resp    Index   Lift       Score
-----------------------------------------------------------------------------------------
-  10  1941   1941      0.38      0.38      15.8%     158    158      0.40
-  20  1942   3883      0.34      0.36      30.0%     141    150      0.32
+![telecom2](https://user-images.githubusercontent.com/44108439/51059105-125f4780-1611-11e9-8f67-2cad6489f9fa.png)
                                    Fig: Gains chart
