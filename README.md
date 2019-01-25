@@ -61,7 +61,7 @@ Artificial churn/spinners or serial churners “Artificial” churn may be encou
 - rev_Range var is the range of revenue that represents the billing amount to the customer that has the beta coefficient,of 0.00207155     that is causing churn to increase by 0.00207155/unit.
 - ovrrev_Mean var is the addition of 2 variables datovr_Mean and vceovr_Mean which is the mean average revenue that is again sum of the   data and voice, that has the beta coefficient of 0.00685211 that is causing churn to increase by 0.00685211/unit.
 - totrev var is the total revenue earned from the customers that has the beta coefficient of  0.00024202 that is causing churn to         increase by 0.00024202/unit.
-By above seen values its negligible amount of impact on the churn rate. Therefore, cost and billing is can be an important factor influencing churn behavior in Mobicom As the variables like rev_Range, ovrrev_Mean, totrev turns out to increase the churn. Thus it as to be considered.
+- By above seen values its negligible amount of impact on the churn rate. Therefore, cost and billing is can be an important factor influencing churn behavior in Mobicom As the variables like rev_Range, ovrrev_Mean, totrev turns out to increase the churn. Thus it as to be considered.
 
 ## Network and Security Quality factor
 - mou_Range var is the unit increase in range of number of minutes of use may be based on promotion  which is a Proactive Retention       Strategy, by which there is an increase in churn by 0.00024676 units.
