@@ -1,5 +1,5 @@
 # Telecom-Churn-Prediction-Capstone-Project-
-Predicting the churn of a telecom company using Logistic Regression Algorithm
+Predicting the churn of a telecom company called Mobicom using Logistic Regression Algorithm.
 ## Problem Statement
 - Senior management at Mobicom is concerned that the market environment of rising churn rates and declining ARPU(Average Revenue Per User).
 - Some proactive retention programs like enhancing marketing programs to increase minutes of usage (MOU), rate plan migration, and a         bundling strategy among others are carried out to retain the customers.
