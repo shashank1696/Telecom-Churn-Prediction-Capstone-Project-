@@ -24,7 +24,7 @@ Usage based promotions to increase minutes of usage (MOU) for both voice and dat
 
 - Offer bundling and churn have been found to be negatively correlated. A family bundle is an option that is being considered especially in the light of one of the observations from the survey that referrals from family and friends are a deciding factor for switching carrier.
 
-## Definitions:
+## Data Definition:
 
 Bundling A bundling strategy involves offering several products/services for sale as one combined product (e.g., package deal), using demand for the dominant product to sell a secondary offer. This combined product is offered at a discount price so that it is cheaper to buy the bundle than products separately. 
 
