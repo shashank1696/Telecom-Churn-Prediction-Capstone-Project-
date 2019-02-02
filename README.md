@@ -74,7 +74,8 @@ Artificial churn/spinners or serial churners “Artificial” churn may be encou
 - complete_Mean var is the unit increase in mean number of completed voice and data calls thereby decreasing the churn by -0.00193047 units.
 - retdays1 var is the unit increase in churn by 0.67224316 units which is quite high compared to other variables retdays means number of days since the last retention call.
 - Retention calls are made to  retain the customers over some period There is a high unit for this var and also a important factor influencing the churn which can be due to service quality of the company.
-- Therefore, with the increase in number of days since the customer retention call, customer's chances of churning out is quite high. - - These customers has to be paid more attention and appropriate offers have to given in order to retain the customers. And thus network and service quality is not a important factor influencing churn behavior in Mobicom
+- Therefore, with the increase in number of days since the customer retention call, customer's chances of churning out is quite high.
+- These customers has to be paid more attention and appropriate offers have to given in order to retain the customers. And thus network and service quality is not a important factor influencing churn behavior in Mobicom
 
 ## Would you recommend rate plan migration as a proactive retention strategy?
 
